@@ -14,6 +14,7 @@ Lambda3 - https://www.lambda3.com.br/tag/podcast/ <br>
 
 ## Em Inglês
 Software Engineering Daily - https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/ <br>
+Microsoft Cloud Show - http://www.microsoftcloudshow.com/podcast <br>
 
 ## UX
 UI Breakfast Podcast - https://uibreakfast.com/category/podcast/ <br>
