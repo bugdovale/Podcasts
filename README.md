@@ -1,5 +1,8 @@
 # Podcasts
 
+Repositório criado com o intuíto de compartilhar podcasts relacionados a desenvolviment e tecnologia
+
+## Desenvolvimento
 
 Aparelho Elétrico - https://aparelhoeletrico.com/podcasts/ <br>
 Data Hackers Podcast -   https://datahackers.com.br/podcast <br>
@@ -13,8 +16,10 @@ PodProgramar - https://podprogramar.com.br/ <br>
 Lambda3 - https://www.lambda3.com.br/tag/podcast/ <br>
 
 ## Em Inglês
+
 Software Engineering Daily - https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/ <br>
 Microsoft Cloud Show - http://www.microsoftcloudshow.com/podcast <br>
+ThoughtWOrks - https://www.thoughtworks.com/pt/podcasts <br>
 
 ## UX
 UI Breakfast Podcast - https://uibreakfast.com/category/podcast/ <br>
