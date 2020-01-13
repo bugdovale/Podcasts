@@ -4,8 +4,6 @@
 
 ### Uma lista de podcasts nas diversas areas da tecnologia
 
-
-
 Podcast                                                                 | Categoria           | Idioma
 ---                                                                     | ---                 | ---
 [Aparelho Elétrico](https://aparelhoeletrico.com/podcasts)              | :computer:          | :brazil:
@@ -23,6 +21,7 @@ Podcast                                                                 | Catego
 [Software Engineering Daily](http://www.microsoftcloudshow.com/podcast) | :computer:          | :us:
 [UI Breakfast Podcast](https://uibreakfast.com/category/podcast/)       | :nail_care:         | :us:
 
+
 | Legenda                     |
 | --------------------------- |
 | :game_die: Ciência de Dados |
@@ -31,4 +30,5 @@ Podcast                                                                 | Catego
 | :newspaper: Notícias        | 
 | :satellite: Rede            |
 | :lock: Segurança            |
+
 
