@@ -20,7 +20,7 @@ Podcast                                                                 | Catego
 [PodProgramar](https://podprogramar.com.br/)                            | :computer:          | :brazil:
 [Software Engineering Daily](http://www.microsoftcloudshow.com/podcast) | :computer:          | :us:
 [UI Breakfast Podcast](https://uibreakfast.com/category/podcast/)       | :nail_care:         | :us:
-
+[Coders Around The World](https://open.spotify.com/show/5uwozeRrvFR5iMu0IsbN97)       | :computer:         | :brazil:
 
 | Legenda                     |
 | --------------------------- |
